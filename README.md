@@ -1,4 +1,4 @@
-![logo](https://github.com/anhphan45/anhphan/blob/main/Banner%20(2).gif)
+![logo](https://github.com/anhphan45/anhphan45/blob/main/Banner%20(2).gif)
 <h1 align="center">Hi there 👋, I'm Anh Phan</h1>
 <h3 align="center">From Numbers to Knowledge: Your Go-To Data Enthusiast</h3>
 

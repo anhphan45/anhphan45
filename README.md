@@ -18,7 +18,7 @@
 - MSc in Financial Engineering (World Quant University)
 - CFA level 1
 
- 👨‍💻 **All of my projects are available at** [link](link)
+ 👨‍💻 **All of my projects are available at** [link](https://anhphan45.github.io/portfolio/)
 
  📄 **Know about my experiences** [resume](https://www.canva.com/design/DAGEQpJlfiQ/9BsVe9zP-KBDBMTqa_unCw/view?utm_content=DAGEQpJlfiQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
